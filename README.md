@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CheckInChallenge
+- 👀 I’m interested in Github Action
+- 🌱 I’m currently learning security
